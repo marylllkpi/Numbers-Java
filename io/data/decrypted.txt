@@ -1,0 +1,4 @@
+Java is a programming language.
+Streams are used to read and write data in Java programs every day.
+Good code is simple.
+Привіт, це тестовий рядок для шифрування.
